@@ -182,3 +182,14 @@ mvn clean test -DplatformName=android -DdeviceName=Pixel_4 -Dudid=emulator-5554 
 ## :pushpin: Cucumber-html-reports
 
 <img width="948" alt="Cucumber-html-report" src="https://user-images.githubusercontent.com/48508827/189520102-c38a9c83-88ee-409c-8775-f487bfb95613.PNG">
+
+## Author'
+
+ Shivam Singh
+ 
+## Contact
+
+Feel free to reach out to me if you have any questions or suggestions!
+
+Email: shivamgcet221202@gmail.com
+LinkedIn: [Shivam Singh](https://www.linkedin.com/in/shivam1510)

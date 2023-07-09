@@ -61,15 +61,15 @@ To check ios set up `appium-doctor --ios`
 
 1) Open Android Studio.
 2) Click on Tools -> AVD Manager -> Create Virtual Device -> Select the device and OS version -> Finish.
-3) Once Virtual device is created, click on Launch this AVD in the emulator.
+3) Once the Virtual device is created, click on Launch this AVD in the emulator.
 4) Command to view the list of devices attached `adb devices`
 
 ## :pushpin: Android Real Device Set up:
 
-1) Connect Android real device to the machine(Desktop/Laptop)
-2) Turn on the developer options in android mobile
+1) Connect the Android real device to the machine(Desktop/Laptop)
+2) Turn on the developer options in Android mobile
 3) Enable USB debugging
-4) Run command `adb devices` in cmd prompt to check whether the device is recognised
+4) Run the command `adb devices` in cmd prompt to check whether the device is recognized
 
 ## :pushpin: Mirror android/ios device to your desktop
 
